@@ -48,7 +48,7 @@ The dataset contains:
 1. 📥 Clone the repository:
 
 bash
-git clone https://github.com/your-username/tableau-sales-dashboard.git
+git clone  https://github.com/manasmadhav/Sales-Performance-Dashboard/tree/main
 
 
 2. 🧩 Open the Tableau workbook (.twbx file)
